@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+inicio
+cambio 2
+cambio 3
+=======
+inicio
+>>>>>>> parent of f4c6716 (cambio2)
